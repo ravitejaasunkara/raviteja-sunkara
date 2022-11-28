@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam a software engineer<br>currently working as a MEAN stack developer<br>Willing to learn new technologies<br>I use ctrl+c and ctrl+v mostly
+Iam a software engineer<br>currently working as a Angular developer<br>Willing to learn new technologies<br>I use ctrl+c and ctrl+v mostly
 
 
 ## 🌐 Socials:
